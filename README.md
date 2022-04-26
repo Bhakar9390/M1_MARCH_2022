@@ -10,3 +10,4 @@
  ![Code Grade](https://api.codiga.io/project/33190/status/svg)
 
 # Build Linux
+[![Build-Linux](https://github.com/Bhakar9390/M1_MARCH_2022/actions/workflows/linux.yml/badge.svg)](https://github.com/Bhakar9390/M1_MARCH_2022/actions/workflows/linux.yml)
