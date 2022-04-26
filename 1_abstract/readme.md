@@ -1,0 +1,6 @@
+ #  ONLINE SHOPPING
+
+
+This project is a web based shopping system for an existing shop.The project objective is to deliver the online shopping application intoandroid platform.
+This project is an attempt to provide the advantages of online shopping tocustomers of a real shop. It helps buying the products in the shopanywhere through internet by using an android device. Thus the customerwill get the service of online shopping and home delivery from his favoriteshop. This system can be implemented to any shop in the locality or tomultinational branded shops having retail outlet chains.If shops are providing an online portal where their customers can enjoy
+easy shopping from anywhere, the shops won’t be losing any morecustomers to the trending online shops such as flipcart or ebay. Since theapplication is available in the Smartphone it is easily accessible andalways available.
